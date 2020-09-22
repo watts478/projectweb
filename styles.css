@@ -1,32 +1,8 @@
-.row-header{
-    margin: 0px auto;
-    padding: 0px auto;
+.navbar{
+    background-color: darkred;
+    opacity: 2em;
 }
-.row-content{
-    margin: 0px auto;
-    padding: 50px 0px 50px 0px;
-    border-bottom: 1px ridge;
-    min-height: 400px;
-}
-footer{
-    background-color: bisque;
-    margin: 0px auto;
-    padding: 30px 0px 20px 0px;
-}
-.web{
-    font-style: italic;
-    color: rgb(63, 63, 82);
-}
-.jumbotron{
-    padding: 70px 30px 70px 30px;
-    margin: 0px auto;
-    background-color: burlywood;
-    color: crimson;
-
-
-}
-.address{
-    font-size: 85%;
-    margin: 0px auto;
-    color: darkblue;
+body{
+    background-image: "yog1.jpg";
+    
 }
