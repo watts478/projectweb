@@ -1,8 +1,17 @@
-.navbar{
-    background-color: darkred;
-    opacity: 2em;
+.nav_link{
+    color: floralwhite;
 }
 body{
     background-image: "yog1.jpg";
     
+}
+footer{
+    background-color: bisque;
+    margin: 0px auto;
+    padding: 30px 0px 20px 0px;
+    margin-top: 20px;
+}
+h2{
+    margin-bottom: 160px;
+    margin-top: 50px;
 }
